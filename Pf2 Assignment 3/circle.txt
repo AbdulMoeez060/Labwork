@@ -1,0 +1,16 @@
+Area of circle 1 with radius 29.3 is 92.002.
+Area of circle 2 with radius 7.4 is 23.236.
+Area of circle 3 with radius 41.5 is 130.31.
+Area of circle 4 with radius 24.8 is 77.872.
+
+Maximum area= 130 of circle 3.
+Minimum area= 23 of circle 2.
+Average area: 80.
+Area of circle 1 with radius 29.3 is 92.002.
+Area of circle 2 with radius 7.4 is 23.236.
+Area of circle 3 with radius 41.5 is 130.31.
+Area of circle 4 with radius 24.8 is 77.872.
+
+Maximum area= 130 of circle 3.
+Minimum area= 23 of circle 2.
+Average area: 80.

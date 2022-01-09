@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PF2 Lab 6", "PF2 Lab 6.vcxproj", "{5E275FAB-5D1A-4574-A2EE-115F25AAC655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E275FAB-5D1A-4574-A2EE-115F25AAC655}.Debug|x64.ActiveCfg = Debug|x64
+		{5E275FAB-5D1A-4574-A2EE-115F25AAC655}.Debug|x64.Build.0 = Debug|x64
+		{5E275FAB-5D1A-4574-A2EE-115F25AAC655}.Debug|x86.ActiveCfg = Debug|Win32
+		{5E275FAB-5D1A-4574-A2EE-115F25AAC655}.Debug|x86.Build.0 = Debug|Win32
+		{5E275FAB-5D1A-4574-A2EE-115F25AAC655}.Release|x64.ActiveCfg = Release|x64
+		{5E275FAB-5D1A-4574-A2EE-115F25AAC655}.Release|x64.Build.0 = Release|x64
+		{5E275FAB-5D1A-4574-A2EE-115F25AAC655}.Release|x86.ActiveCfg = Release|Win32
+		{5E275FAB-5D1A-4574-A2EE-115F25AAC655}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39D22FFC-F451-44D7-AA7C-CAD1456F5330}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+Area of square 1 with length 5 is 25.
+Area of square 2 with length 4 is 16.
+Area of square 3 with length 6 is 36.
+Area of square 4 with length 9 is 81.
+
+Maximum area= 81 of circle 4.
+Minimum area= 16 of circle 2.
+Average area: 39.
+Area of square 1 with length 5 is 25.
+Area of square 2 with length 4 is 16.
+Area of square 3 with length 6 is 36.
+Area of square 4 with length 9 is 81.
+
+Maximum area= 81 of circle 4.
+Minimum area= 16 of circle 2.
+Average area: 39.

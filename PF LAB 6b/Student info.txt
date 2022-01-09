@@ -1,0 +1,3 @@
+The name of student is abdul moeez
+Registration number is l1f19bcs0360
+The marks of student in Quiz 1 are 60 and in Quiz 2 are 6.5
